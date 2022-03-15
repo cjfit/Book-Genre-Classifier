@@ -1,4 +1,4 @@
-Thanks for checking out practice book genre problem!
+Thanks for checking out my practice book genre problem!
 
 In this exercise we take a JSON-formatted file with key-value pairs of book and description as the first input.
 Our second input is a CSV with a genre, a keyword phrase, and a weighted value.
